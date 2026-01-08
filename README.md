@@ -84,7 +84,8 @@ Regardless of your "golf score" all solutions that pass automated tests and revi
 
 ### Rules
 
-- Comments, imports, pragmas and type signatures do not count towards your golf score
+- Comments, imports, ~pragmas~ and type signatures do not count towards your golf score
+- Pragmas **do** count towards your golf score
 - Whitespaces do not count towards your golf score
   (so please keep your solutions readable with all appropriate spacing)
 - Splitting your solution in separate files is **not allowed**
